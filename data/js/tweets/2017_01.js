@@ -1,10 +1,288 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Sun Jan 08 09:36:56 +0000 2017",
+		"id": 818028705012293600,
+		"id_str": "818028705012293632",
+		"text": "RT @oldschool1077: 올드스쿨이 새해 맞이로 다양한 코너를 선보이는 요즘~오늘 일요일 1교시는 매력 보이스 가수 #프롬 과 &lt;이상한 나라의 프롬&gt;으로 함께해요🤘특이하고 유별난 사람에 관한 사연... 그리고 프롬씨가  사연 맞춤형 ost를…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프롬",
+					"indices": [
+						70,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "oldschool1077",
+					"name": "올드스쿨",
+					"id": 273257274,
+					"id_str": "273257274",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "HeartShuttleBan",
+			"location": "",
+			"description": "싱어송라이터 프롬(Fromm) 공식 트위터 @frommeg 페이스북 https://t.co/0zQF0hUdie 인스타그램 https://t.co/gzqlcz3Cdx 유튜브 https://t.co/azTtNTpN8X 소속사 Label LIM",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								38,
+								61
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								68,
+								91
+							]
+						},
+						{
+							"url": "https://t.co/azTtNTpN8X",
+							"expanded_url": "https://www.youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 207,
+			"friends_count": 17,
+			"listed_count": 0,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 1706,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2171,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/452580080934322176/11nbgbKZ.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/452580080934322176/11nbgbKZ.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743041864241012736/Mx4ByU3e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743041864241012736/Mx4ByU3e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1474812915",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 08 07:05:36 +0000 2017",
+			"id": 817990620866195500,
+			"id_str": "817990620866195456",
+			"text": "올드스쿨이 새해 맞이로 다양한 코너를 선보이는 요즘~오늘 일요일 1교시는 매력 보이스 가수 #프롬 과 &lt;이상한 나라의 프롬&gt;으로 함께해요🤘특이하고 유별난 사람에 관한 사연... 그리고 프롬씨가  사연 맞춤형… https://t.co/ScuCC5iz06",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "프롬",
+						"indices": [
+							51,
+							54
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ScuCC5iz06",
+						"expanded_url": "https://twitter.com/i/web/status/817990620866195456",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							123,
+							146
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 273257274,
+				"id_str": "273257274",
+				"name": "올드스쿨",
+				"screen_name": "oldschool1077",
+				"location": "목동 SBS",
+				"description": "POWER FM 107.7 오후 4시~6시  창렬이와 함께해요~!!",
+				"url": "http://t.co/av6wboL2nY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/av6wboL2nY",
+								"expanded_url": "http://radio.sbs.co.kr/oldschool/",
+								"display_url": "radio.sbs.co.kr/oldschool/",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2450,
+				"friends_count": 674,
+				"listed_count": 31,
+				"created_at": "Mon Mar 28 04:04:44 +0000 2011",
+				"favourites_count": 11,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 596,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3684065224/19c30de3307c07d68fc68894f37cf2e4_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3684065224/19c30de3307c07d68fc68894f37cf2e4_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "01a241300ef51ff0",
+				"url": "https://api.twitter.com/1.1/geo/id/01a241300ef51ff0.json",
+				"place_type": "city",
+				"name": "서대문구",
+				"full_name": "대한민국 서대문구",
+				"country_code": "KR",
+				"country": "대한민국",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								126.909647851736,
+								37.5525984433707
+							],
+							[
+								126.970218583433,
+								37.5525984433707
+							],
+							[
+								126.970218583433,
+								37.600879441397
+							],
+							[
+								126.909647851736,
+								37.600879441397
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Jan 07 14:27:16 +0000 2017",
 		"id": 817739384246194200,
 		"id_str": "817739384246194176",
-		"text": "【 #프롬인스타그램 】 #취재전쟁 톱스타의 생일잔치 👩‍👩‍👧‍👦👩‍👩‍👧‍👧👩‍👩‍👦🎂\n생축 사랑하는 쌍유진 moontan_eg https://t.co/3O8JuQb5WG https://t.co/McN2mBZYBs",
+		"text": "【 #프롬인스타그램 】 #취재전쟁 톱스타의 생일잔치 👩👩👧👦👩👩👧👧👩👩👦🎂\n생축 사랑하는 쌍유진 moontan_eg https://t.co/3O8JuQb5WG https://t.co/McN2mBZYBs",
 		"truncated": false,
 		"entities": {
 			"hashtags": [
