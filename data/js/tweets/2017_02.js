@@ -1,6 +1,1455 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Fri Feb 17 05:58:55 +0000 2017",
+		"id": 832469356579663900,
+		"id_str": "832469356579663872",
+		"text": "RT @MINQCOAT: 프롬님: 대명문화공..ㅈ...(더듬\n관객: 공장!!!\n프롬님: 😁👌 https://t.co/Ub42nhEgET",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MINQCOAT",
+					"name": "MINQQQ",
+					"id": 2871376854,
+					"id_str": "2871376854",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 832311638346842100,
+					"id_str": "832311638346842116",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C4z3BnoWQAQBN48.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C4z3BnoWQAQBN48.jpg",
+					"url": "https://t.co/Ub42nhEgET",
+					"display_url": "pic.twitter.com/Ub42nhEgET",
+					"expanded_url": "https://twitter.com/MINQCOAT/status/832311796052672516/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 508,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 482,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 482,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 832311796052672500,
+					"source_status_id_str": "832311796052672516",
+					"source_user_id": 2871376854,
+					"source_user_id_str": "2871376854"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 832311638346842100,
+					"id_str": "832311638346842116",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C4z3BnoWQAQBN48.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C4z3BnoWQAQBN48.jpg",
+					"url": "https://t.co/Ub42nhEgET",
+					"display_url": "pic.twitter.com/Ub42nhEgET",
+					"expanded_url": "https://twitter.com/MINQCOAT/status/832311796052672516/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 508,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 482,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 482,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 832311796052672500,
+					"source_status_id_str": "832311796052672516",
+					"source_user_id": 2871376854,
+					"source_user_id_str": "2871376854",
+					"video_info": {
+						"aspect_ratio": [
+							241,
+							360
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/C4z3BnoWQAQBN48.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "HeartShuttleBan",
+			"location": "",
+			"description": "싱어송라이터 프롬(Fromm) 공식 트위터 @frommeg 페이스북 https://t.co/0zQF0hUdie 인스타그램 https://t.co/gzqlcz3Cdx 유튜브 https://t.co/azTtNTpN8X 소속사 Label LIM",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								38,
+								61
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								68,
+								91
+							]
+						},
+						{
+							"url": "https://t.co/azTtNTpN8X",
+							"expanded_url": "https://www.youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 220,
+			"friends_count": 17,
+			"listed_count": 0,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 1809,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2252,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/452580080934322176/11nbgbKZ.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/452580080934322176/11nbgbKZ.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743041864241012736/Mx4ByU3e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743041864241012736/Mx4ByU3e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1474812915",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 16 19:32:50 +0000 2017",
+			"id": 832311796052672500,
+			"id_str": "832311796052672516",
+			"text": "프롬님: 대명문화공..ㅈ...(더듬\n관객: 공장!!!\n프롬님: 😁👌 https://t.co/Ub42nhEgET",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 832311638346842100,
+						"id_str": "832311638346842116",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C4z3BnoWQAQBN48.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C4z3BnoWQAQBN48.jpg",
+						"url": "https://t.co/Ub42nhEgET",
+						"display_url": "pic.twitter.com/Ub42nhEgET",
+						"expanded_url": "https://twitter.com/MINQCOAT/status/832311796052672516/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 508,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 482,
+								"h": 720,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 482,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 832311638346842100,
+						"id_str": "832311638346842116",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C4z3BnoWQAQBN48.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C4z3BnoWQAQBN48.jpg",
+						"url": "https://t.co/Ub42nhEgET",
+						"display_url": "pic.twitter.com/Ub42nhEgET",
+						"expanded_url": "https://twitter.com/MINQCOAT/status/832311796052672516/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 508,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 482,
+								"h": 720,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 482,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								241,
+								360
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/C4z3BnoWQAQBN48.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2871376854,
+				"id_str": "2871376854",
+				"name": "MINQQQ",
+				"screen_name": "MINQCOAT",
+				"location": "움직이지 않는 세계",
+				"description": "잡덕 / 관종 / 일상트 많아요 / 헤더는 @mhiepik1023 / 인장은 @blobyblo",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 222,
+				"friends_count": 324,
+				"listed_count": 8,
+				"created_at": "Wed Oct 22 17:17:30 +0000 2014",
+				"favourites_count": 423,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 105404,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/790520449855688704/CrNXnUrk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/790520449855688704/CrNXnUrk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2871376854/1480451486",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Feb 17 05:49:58 +0000 2017",
+		"id": 832467101881245700,
+		"id_str": "832467101881245696",
+		"text": "RT @MINQCOAT: 그 폰 데이터 삽니다 https://t.co/yhIPEHtLRp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MINQCOAT",
+					"name": "MINQQQ",
+					"id": 2871376854,
+					"id_str": "2871376854",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 832300135094820900,
+					"id_str": "832300135094820866",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/C4zskCrWIAIpwVZ.png",
+					"media_url_https": "https://pbs.twimg.com/media/C4zskCrWIAIpwVZ.png",
+					"url": "https://t.co/yhIPEHtLRp",
+					"display_url": "pic.twitter.com/yhIPEHtLRp",
+					"expanded_url": "https://twitter.com/MINQCOAT/status/832300434127732736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 798,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1622,
+							"h": 1079,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 832300434127732700,
+					"source_status_id_str": "832300434127732736",
+					"source_user_id": 2871376854,
+					"source_user_id_str": "2871376854"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 832300135094820900,
+					"id_str": "832300135094820866",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/C4zskCrWIAIpwVZ.png",
+					"media_url_https": "https://pbs.twimg.com/media/C4zskCrWIAIpwVZ.png",
+					"url": "https://t.co/yhIPEHtLRp",
+					"display_url": "pic.twitter.com/yhIPEHtLRp",
+					"expanded_url": "https://twitter.com/MINQCOAT/status/832300434127732736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 798,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1622,
+							"h": 1079,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 832300434127732700,
+					"source_status_id_str": "832300434127732736",
+					"source_user_id": 2871376854,
+					"source_user_id_str": "2871376854"
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "HeartShuttleBan",
+			"location": "",
+			"description": "싱어송라이터 프롬(Fromm) 공식 트위터 @frommeg 페이스북 https://t.co/0zQF0hUdie 인스타그램 https://t.co/gzqlcz3Cdx 유튜브 https://t.co/azTtNTpN8X 소속사 Label LIM",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								38,
+								61
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								68,
+								91
+							]
+						},
+						{
+							"url": "https://t.co/azTtNTpN8X",
+							"expanded_url": "https://www.youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 220,
+			"friends_count": 17,
+			"listed_count": 0,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 1809,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2252,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/452580080934322176/11nbgbKZ.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/452580080934322176/11nbgbKZ.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743041864241012736/Mx4ByU3e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743041864241012736/Mx4ByU3e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1474812915",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 16 18:47:41 +0000 2017",
+			"id": 832300434127732700,
+			"id_str": "832300434127732736",
+			"text": "그 폰 데이터 삽니다 https://t.co/yhIPEHtLRp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 832300135094820900,
+						"id_str": "832300135094820866",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/media/C4zskCrWIAIpwVZ.png",
+						"media_url_https": "https://pbs.twimg.com/media/C4zskCrWIAIpwVZ.png",
+						"url": "https://t.co/yhIPEHtLRp",
+						"display_url": "pic.twitter.com/yhIPEHtLRp",
+						"expanded_url": "https://twitter.com/MINQCOAT/status/832300434127732736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 452,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 798,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1622,
+								"h": 1079,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 832300135094820900,
+						"id_str": "832300135094820866",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/media/C4zskCrWIAIpwVZ.png",
+						"media_url_https": "https://pbs.twimg.com/media/C4zskCrWIAIpwVZ.png",
+						"url": "https://t.co/yhIPEHtLRp",
+						"display_url": "pic.twitter.com/yhIPEHtLRp",
+						"expanded_url": "https://twitter.com/MINQCOAT/status/832300434127732736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 452,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 798,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1622,
+								"h": 1079,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2871376854,
+				"id_str": "2871376854",
+				"name": "MINQQQ",
+				"screen_name": "MINQCOAT",
+				"location": "움직이지 않는 세계",
+				"description": "잡덕 / 관종 / 일상트 많아요 / 헤더는 @mhiepik1023 / 인장은 @blobyblo",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 222,
+				"friends_count": 324,
+				"listed_count": 8,
+				"created_at": "Wed Oct 22 17:17:30 +0000 2014",
+				"favourites_count": 423,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 105404,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/790520449855688704/CrNXnUrk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/790520449855688704/CrNXnUrk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2871376854/1480451486",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Feb 17 05:49:46 +0000 2017",
+		"id": 832467054657560600,
+		"id_str": "832467054657560576",
+		"text": "RT @MINQCOAT: 주탱 달밤댄싱에 맞춰 춤추는 프롬님.gif\n(중간에 시야 팅긴 건 실수...ㅠㅠ)\n\n@SR_Cream @LongingRomantic https://t.co/Mz57kH0WJT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MINQCOAT",
+					"name": "MINQQQ",
+					"id": 2871376854,
+					"id_str": "2871376854",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "SR_Cream",
+					"name": "[펭젤귀1기]알 ㅡ파카",
+					"id": 3243873673,
+					"id_str": "3243873673",
+					"indices": [
+						61,
+						70
+					]
+				},
+				{
+					"screen_name": "LongingRomantic",
+					"name": "🍞멍충이🐧",
+					"id": 4459299013,
+					"id_str": "4459299013",
+					"indices": [
+						71,
+						87
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 832304443299418100,
+					"id_str": "832304443299418112",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C4zwez_XUAAmulg.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C4zwez_XUAAmulg.jpg",
+					"url": "https://t.co/Mz57kH0WJT",
+					"display_url": "pic.twitter.com/Mz57kH0WJT",
+					"expanded_url": "https://twitter.com/MINQCOAT/status/832305572422832129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 314,
+							"h": 560,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 314,
+							"h": 560,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 314,
+							"h": 560,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 832305572422832100,
+					"source_status_id_str": "832305572422832129",
+					"source_user_id": 2871376854,
+					"source_user_id_str": "2871376854"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 832304443299418100,
+					"id_str": "832304443299418112",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C4zwez_XUAAmulg.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C4zwez_XUAAmulg.jpg",
+					"url": "https://t.co/Mz57kH0WJT",
+					"display_url": "pic.twitter.com/Mz57kH0WJT",
+					"expanded_url": "https://twitter.com/MINQCOAT/status/832305572422832129/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 314,
+							"h": 560,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 314,
+							"h": 560,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 314,
+							"h": 560,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 832305572422832100,
+					"source_status_id_str": "832305572422832129",
+					"source_user_id": 2871376854,
+					"source_user_id_str": "2871376854",
+					"video_info": {
+						"aspect_ratio": [
+							157,
+							280
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/C4zwez_XUAAmulg.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "HeartShuttleBan",
+			"location": "",
+			"description": "싱어송라이터 프롬(Fromm) 공식 트위터 @frommeg 페이스북 https://t.co/0zQF0hUdie 인스타그램 https://t.co/gzqlcz3Cdx 유튜브 https://t.co/azTtNTpN8X 소속사 Label LIM",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								38,
+								61
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								68,
+								91
+							]
+						},
+						{
+							"url": "https://t.co/azTtNTpN8X",
+							"expanded_url": "https://www.youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 220,
+			"friends_count": 17,
+			"listed_count": 0,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 1809,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2252,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/452580080934322176/11nbgbKZ.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/452580080934322176/11nbgbKZ.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743041864241012736/Mx4ByU3e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743041864241012736/Mx4ByU3e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1474812915",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 16 19:08:06 +0000 2017",
+			"id": 832305572422832100,
+			"id_str": "832305572422832129",
+			"text": "주탱 달밤댄싱에 맞춰 춤추는 프롬님.gif\n(중간에 시야 팅긴 건 실수...ㅠㅠ)\n\n@SR_Cream @LongingRomantic https://t.co/Mz57kH0WJT",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SR_Cream",
+						"name": "[펭젤귀1기]알 ㅡ파카",
+						"id": 3243873673,
+						"id_str": "3243873673",
+						"indices": [
+							47,
+							56
+						]
+					},
+					{
+						"screen_name": "LongingRomantic",
+						"name": "🍞멍충이🐧",
+						"id": 4459299013,
+						"id_str": "4459299013",
+						"indices": [
+							57,
+							73
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 832304443299418100,
+						"id_str": "832304443299418112",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C4zwez_XUAAmulg.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C4zwez_XUAAmulg.jpg",
+						"url": "https://t.co/Mz57kH0WJT",
+						"display_url": "pic.twitter.com/Mz57kH0WJT",
+						"expanded_url": "https://twitter.com/MINQCOAT/status/832305572422832129/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 314,
+								"h": 560,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 314,
+								"h": 560,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 314,
+								"h": 560,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 832304443299418100,
+						"id_str": "832304443299418112",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C4zwez_XUAAmulg.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C4zwez_XUAAmulg.jpg",
+						"url": "https://t.co/Mz57kH0WJT",
+						"display_url": "pic.twitter.com/Mz57kH0WJT",
+						"expanded_url": "https://twitter.com/MINQCOAT/status/832305572422832129/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 314,
+								"h": 560,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 314,
+								"h": 560,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 314,
+								"h": 560,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								157,
+								280
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/C4zwez_XUAAmulg.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2871376854,
+				"id_str": "2871376854",
+				"name": "MINQQQ",
+				"screen_name": "MINQCOAT",
+				"location": "움직이지 않는 세계",
+				"description": "잡덕 / 관종 / 일상트 많아요 / 헤더는 @mhiepik1023 / 인장은 @blobyblo",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 222,
+				"friends_count": 324,
+				"listed_count": 8,
+				"created_at": "Wed Oct 22 17:17:30 +0000 2014",
+				"favourites_count": 423,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 105404,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/790520449855688704/CrNXnUrk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/790520449855688704/CrNXnUrk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2871376854/1480451486",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Feb 17 01:44:40 +0000 2017",
+		"id": 832405370580697100,
+		"id_str": "832405370580697088",
+		"text": "RT @mirrorballmusic: 👍 Today's Pick by Mirrorball Music!\n\n➤ 스위트피 Sweetpea [그걸로 됐어] - ‘스위트피’의 마지막. 10년의 시간이 걸려 돌아온 그는 여전하고, 또 여전하지 않다.... ht…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mirrorballmusic",
+					"name": "미러볼뮤직mirrorballmusic",
+					"id": 125049211,
+					"id_str": "125049211",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "HeartShuttleBan",
+			"location": "",
+			"description": "싱어송라이터 프롬(Fromm) 공식 트위터 @frommeg 페이스북 https://t.co/0zQF0hUdie 인스타그램 https://t.co/gzqlcz3Cdx 유튜브 https://t.co/azTtNTpN8X 소속사 Label LIM",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								38,
+								61
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								68,
+								91
+							]
+						},
+						{
+							"url": "https://t.co/azTtNTpN8X",
+							"expanded_url": "https://www.youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 220,
+			"friends_count": 17,
+			"listed_count": 0,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 1809,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2252,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/452580080934322176/11nbgbKZ.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/452580080934322176/11nbgbKZ.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743041864241012736/Mx4ByU3e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743041864241012736/Mx4ByU3e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1474812915",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 16 05:50:59 +0000 2017",
+			"id": 832104969440477200,
+			"id_str": "832104969440477184",
+			"text": "👍 Today's Pick by Mirrorball Music!\n\n➤ 스위트피 Sweetpea [그걸로 됐어] - ‘스위트피’의 마지막. 10년의 시간이 걸려 돌아온 그는 여전하고, 또 여전하지 않다.... https://t.co/NjAa99BIVR",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NjAa99BIVR",
+						"expanded_url": "http://fb.me/8yuOOqkjj",
+						"display_url": "fb.me/8yuOOqkjj",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 125049211,
+				"id_str": "125049211",
+				"name": "미러볼뮤직mirrorballmusic",
+				"screen_name": "mirrorballmusic",
+				"location": "Republic Korea Mapo-gu",
+				"description": "Korean Indie Music Distributor (Naver 오늘의 뮤직 최다 선정 배급사) 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+				"url": "https://t.co/Ty0n69rcT2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ty0n69rcT2",
+								"expanded_url": "http://www.mirrorballmusic.co.kr",
+								"display_url": "mirrorballmusic.co.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/7KhvfUdI2i",
+								"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+								"display_url": "youtube.com/mirrorballmusi…",
+								"indices": [
+									87,
+									110
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10641,
+				"friends_count": 3362,
+				"listed_count": 286,
+				"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+				"favourites_count": 241,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8776,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000033592301/89b439e9c35c9233a8f1ddde4f2abbd8.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000033592301/89b439e9c35c9233a8f1ddde4f2abbd8.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/815743109287944192/aLE5K6ox_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/815743109287944192/aLE5K6ox_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Feb 16 10:57:45 +0000 2017",
 		"id": 832182171112611800,
 		"id_str": "832182171112611840",
