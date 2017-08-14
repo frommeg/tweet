@@ -1,6 +1,441 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Mon Aug 14 14:55:40 +0000 2017",
+		"id": 897109472883073000,
+		"id_str": "897109472883073024",
+		"text": "RT @NewsCulture: #쿠바 여행한 아티스트 세 명이 간직한 시간들, ‘#나를기억해, 쿠바’展 캐논갤러리서 개최 https://t.co/kXE8UDQWSO 뉴스컬처\n수익금 메이크어위시 재단에 기부 https://t.co/TFWUUVCkpA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쿠바",
+					"indices": [
+						17,
+						20
+					]
+				},
+				{
+					"text": "나를기억해",
+					"indices": [
+						45,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewsCulture",
+					"name": "뉴스컬처(공연문화)",
+					"id": 182004140,
+					"id_str": "182004140",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kXE8UDQWSO",
+					"expanded_url": "http://www.newsculture.tv/sub_read.html?uid=107137",
+					"display_url": "newsculture.tv/sub_read.html?…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 895927157066682400,
+					"id_str": "895927157066682370",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DG75AKWV0AIoB8O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DG75AKWV0AIoB8O.jpg",
+					"url": "https://t.co/TFWUUVCkpA",
+					"display_url": "pic.twitter.com/TFWUUVCkpA",
+					"expanded_url": "https://twitter.com/NewsCulture/status/895927193879977984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 540,
+							"h": 303,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 303,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 303,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 895927193879978000,
+					"source_status_id_str": "895927193879977984",
+					"source_user_id": 182004140,
+					"source_user_id_str": "182004140"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 895927157066682400,
+					"id_str": "895927157066682370",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DG75AKWV0AIoB8O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DG75AKWV0AIoB8O.jpg",
+					"url": "https://t.co/TFWUUVCkpA",
+					"display_url": "pic.twitter.com/TFWUUVCkpA",
+					"expanded_url": "https://twitter.com/NewsCulture/status/895927193879977984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 540,
+							"h": 303,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 303,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 303,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 895927193879978000,
+					"source_status_id_str": "895927193879977984",
+					"source_user_id": 182004140,
+					"source_user_id_str": "182004140"
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "HeartShuttleBan",
+			"location": "",
+			"description": "싱어송라이터 프롬(Fromm) 공식 트위터 @frommeg 페이스북 https://t.co/0zQF0hUdie 인스타그램 https://t.co/gzqlcz3Cdx 유튜브 https://t.co/azTtNTpN8X 소속사 Label LIM",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								38,
+								61
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								68,
+								91
+							]
+						},
+						{
+							"url": "https://t.co/azTtNTpN8X",
+							"expanded_url": "https://www.youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 282,
+			"friends_count": 21,
+			"listed_count": 1,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2996,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2906,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/452580080934322176/11nbgbKZ.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/452580080934322176/11nbgbKZ.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/863964785955586049/ClBVWNEx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/863964785955586049/ClBVWNEx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1495848277",
+			"profile_link_color": "082E8B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 11 08:37:43 +0000 2017",
+			"id": 895927193879978000,
+			"id_str": "895927193879977984",
+			"text": "#쿠바 여행한 아티스트 세 명이 간직한 시간들, ‘#나를기억해, 쿠바’展 캐논갤러리서 개최 https://t.co/kXE8UDQWSO 뉴스컬처\n수익금 메이크어위시 재단에 기부 https://t.co/TFWUUVCkpA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "쿠바",
+						"indices": [
+							0,
+							3
+						]
+					},
+					{
+						"text": "나를기억해",
+						"indices": [
+							28,
+							34
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kXE8UDQWSO",
+						"expanded_url": "http://www.newsculture.tv/sub_read.html?uid=107137",
+						"display_url": "newsculture.tv/sub_read.html?…",
+						"indices": [
+							51,
+							74
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 895927157066682400,
+						"id_str": "895927157066682370",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DG75AKWV0AIoB8O.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DG75AKWV0AIoB8O.jpg",
+						"url": "https://t.co/TFWUUVCkpA",
+						"display_url": "pic.twitter.com/TFWUUVCkpA",
+						"expanded_url": "https://twitter.com/NewsCulture/status/895927193879977984/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 540,
+								"h": 303,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 540,
+								"h": 303,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 540,
+								"h": 303,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 895927157066682400,
+						"id_str": "895927157066682370",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DG75AKWV0AIoB8O.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DG75AKWV0AIoB8O.jpg",
+						"url": "https://t.co/TFWUUVCkpA",
+						"display_url": "pic.twitter.com/TFWUUVCkpA",
+						"expanded_url": "https://twitter.com/NewsCulture/status/895927193879977984/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 540,
+								"h": 303,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 540,
+								"h": 303,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 540,
+								"h": 303,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 182004140,
+				"id_str": "182004140",
+				"name": "뉴스컬처(공연문화)",
+				"screen_name": "NewsCulture",
+				"location": "서울시 용산구 한강대로 297, 우신빌딩 5층",
+				"description": "공연문화(뮤지컬/연극/오페라/무용/클래식)를 전하는 문화전문 뉴스컬처 공식 트위터입니다 :)",
+				"url": "https://t.co/047qBEnwQl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/047qBEnwQl",
+								"expanded_url": "http://www.newsculture.tv",
+								"display_url": "newsculture.tv",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19240,
+				"friends_count": 16389,
+				"listed_count": 164,
+				"created_at": "Mon Aug 23 16:01:10 +0000 2010",
+				"favourites_count": 56,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20832,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/595025859217469440/ZhJCie4G_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/595025859217469440/ZhJCie4G_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/182004140/1476081507",
+				"profile_link_color": "008ED2",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Aug 13 12:22:22 +0000 2017",
 		"id": 896708506178510800,
 		"id_str": "896708506178510848",
