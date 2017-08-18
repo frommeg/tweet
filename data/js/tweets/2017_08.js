@@ -1,6 +1,659 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Fri Aug 18 06:54:49 +0000 2017",
+		"id": 898438015550234600,
+		"id_str": "898438015550234624",
+		"text": "【 #프롬인스타그램 】 가을 햇살처럼 따뜻한 어쿠스틱 음악축제 FALL IN ACOUSTIC FESTIVAL 2017 ▶최종 라인업 / 8팀 #양희은 (NEW) #멜로망스 #소란 #소심한오빠들 #박원 #뷔…… https://t.co/gAemO36683",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프롬인스타그램",
+					"indices": [
+						2,
+						10
+					]
+				},
+				{
+					"text": "양희은",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "멜로망스",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "소란",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "소심한오빠들",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"text": "박원",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "뷔",
+					"indices": [
+						112,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gAemO36683",
+					"expanded_url": "https://twitter.com/i/web/status/898438015550234624",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "HeartShuttleBan",
+			"location": "",
+			"description": "싱어송라이터 프롬(Fromm) 공식 트위터 @frommeg 페이스북 https://t.co/0zQF0hUdie 인스타그램 https://t.co/gzqlcz3Cdx 유튜브 https://t.co/azTtNTpN8X 소속사 Label LIM",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								38,
+								61
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								68,
+								91
+							]
+						},
+						{
+							"url": "https://t.co/azTtNTpN8X",
+							"expanded_url": "https://www.youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 284,
+			"friends_count": 21,
+			"listed_count": 1,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 3010,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2915,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/452580080934322176/11nbgbKZ.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/452580080934322176/11nbgbKZ.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/863964785955586049/ClBVWNEx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/863964785955586049/ClBVWNEx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1495848277",
+			"profile_link_color": "082E8B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Aug 18 05:36:17 +0000 2017",
+		"id": 898418250769354800,
+		"id_str": "898418250769354752",
+		"text": "【 #프롬페이스북 】 가을 햇살처럼 따뜻한 어쿠스틱 음악축제\n“FALL IN ACOUSTIC FESTIVAL 2017”\n\n▶최종 라인업 / 8팀\n　\n#양희은 (NEW)\n#멜로망스\n#소란\n#소심한오빠들\n#박… https://t.co/2IQUcOlmaU",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프롬페이스북",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "양희은",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "멜로망스",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "소란",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "소심한오빠들",
+					"indices": [
+						104,
+						111
+					]
+				},
+				{
+					"text": "박",
+					"indices": [
+						112,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2IQUcOlmaU",
+					"expanded_url": "https://www.facebook.com/fromm12/posts/1665383830161053",
+					"display_url": "facebook.com/fromm12/posts/…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "HeartShuttleBan",
+			"location": "",
+			"description": "싱어송라이터 프롬(Fromm) 공식 트위터 @frommeg 페이스북 https://t.co/0zQF0hUdie 인스타그램 https://t.co/gzqlcz3Cdx 유튜브 https://t.co/azTtNTpN8X 소속사 Label LIM",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								38,
+								61
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								68,
+								91
+							]
+						},
+						{
+							"url": "https://t.co/azTtNTpN8X",
+							"expanded_url": "https://www.youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 284,
+			"friends_count": 21,
+			"listed_count": 1,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 3010,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2915,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/452580080934322176/11nbgbKZ.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/452580080934322176/11nbgbKZ.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/863964785955586049/ClBVWNEx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/863964785955586049/ClBVWNEx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1495848277",
+			"profile_link_color": "082E8B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Aug 18 05:15:23 +0000 2017",
+		"id": 898412990894030800,
+		"id_str": "898412990894030849",
+		"text": "RT @Frommeg: 가을 햇살처럼 따뜻한 어쿠스틱 음악축제\n“FALL IN ACOUSTIC FESTIVAL 2017”\n\n▶최종 라인업 / 8팀\n　\n#양희은 (NEW)\n#멜로망스\n#소란\n#소심한오빠들\n#박원\n#뷔에르앙상블... https://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "양희은",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "멜로망스",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "소란",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "소심한오빠들",
+					"indices": [
+						105,
+						112
+					]
+				},
+				{
+					"text": "박원",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "뷔에르앙상블",
+					"indices": [
+						117,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Frommeg",
+					"name": "Fromm12",
+					"id": 584157489,
+					"id_str": "584157489",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "HeartShuttleBan",
+			"location": "",
+			"description": "싱어송라이터 프롬(Fromm) 공식 트위터 @frommeg 페이스북 https://t.co/0zQF0hUdie 인스타그램 https://t.co/gzqlcz3Cdx 유튜브 https://t.co/azTtNTpN8X 소속사 Label LIM",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								38,
+								61
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								68,
+								91
+							]
+						},
+						{
+							"url": "https://t.co/azTtNTpN8X",
+							"expanded_url": "https://www.youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 284,
+			"friends_count": 21,
+			"listed_count": 1,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 3010,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2915,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/452580080934322176/11nbgbKZ.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/452580080934322176/11nbgbKZ.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/863964785955586049/ClBVWNEx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/863964785955586049/ClBVWNEx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1495848277",
+			"profile_link_color": "082E8B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 18 05:14:47 +0000 2017",
+			"id": 898412840968519700,
+			"id_str": "898412840968519680",
+			"text": "가을 햇살처럼 따뜻한 어쿠스틱 음악축제\n“FALL IN ACOUSTIC FESTIVAL 2017”\n\n▶최종 라인업 / 8팀\n　\n#양희은 (NEW)\n#멜로망스\n#소란\n#소심한오빠들\n#박원\n#뷔에르앙상블... https://t.co/WVHeQH16Zn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "양희은",
+						"indices": [
+							71,
+							75
+						]
+					},
+					{
+						"text": "멜로망스",
+						"indices": [
+							82,
+							87
+						]
+					},
+					{
+						"text": "소란",
+						"indices": [
+							88,
+							91
+						]
+					},
+					{
+						"text": "소심한오빠들",
+						"indices": [
+							92,
+							99
+						]
+					},
+					{
+						"text": "박원",
+						"indices": [
+							100,
+							103
+						]
+					},
+					{
+						"text": "뷔에르앙상블",
+						"indices": [
+							104,
+							111
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WVHeQH16Zn",
+						"expanded_url": "http://fb.me/17tQ0aqso",
+						"display_url": "fb.me/17tQ0aqso",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 584157489,
+				"id_str": "584157489",
+				"name": "Fromm12",
+				"screen_name": "Frommeg",
+				"location": "서울",
+				"description": "이런거 어렵다고",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 318,
+				"friends_count": 11,
+				"listed_count": 9,
+				"created_at": "Fri May 18 19:08:44 +0000 2012",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 192,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000697337830/7dee39035cf12499d251ff59f824b909_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000697337830/7dee39035cf12499d251ff59f824b909_normal.jpeg",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "65B0DA",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Aug 17 09:47:28 +0000 2017",
 		"id": 898119076291240000,
 		"id_str": "898119076291239936",
