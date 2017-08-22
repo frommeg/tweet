@@ -1,6 +1,477 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Tue Aug 22 13:17:25 +0000 2017",
+		"id": 899983851283509200,
+		"id_str": "899983851283509248",
+		"text": "【 #프롬인스타그램 】 두두둥 새로운시즌 💁🏻💜#문탠 moontan_official moontan_eg https://t.co/qekY2vgaxM https://t.co/OiT1Tlmv4M",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프롬인스타그램",
+					"indices": [
+						2,
+						10
+					]
+				},
+				{
+					"text": "문탠",
+					"indices": [
+						26,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qekY2vgaxM",
+					"expanded_url": "https://www.instagram.com/p/BYGNw6HDrBr/",
+					"display_url": "instagram.com/p/BYGNw6HDrBr/",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 899983848930410500,
+					"id_str": "899983848930410496",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DH1iitMWAAAFuVB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DH1iitMWAAAFuVB.jpg",
+					"url": "https://t.co/OiT1Tlmv4M",
+					"display_url": "pic.twitter.com/OiT1Tlmv4M",
+					"expanded_url": "https://twitter.com/HeartShuttleBan/status/899983851283509248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 899983848930410500,
+					"id_str": "899983848930410496",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DH1iitMWAAAFuVB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DH1iitMWAAAFuVB.jpg",
+					"url": "https://t.co/OiT1Tlmv4M",
+					"display_url": "pic.twitter.com/OiT1Tlmv4M",
+					"expanded_url": "https://twitter.com/HeartShuttleBan/status/899983851283509248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "HeartShuttleBan",
+			"location": "",
+			"description": "싱어송라이터 프롬(Fromm) 공식 트위터 @frommeg 페이스북 https://t.co/0zQF0hUdie 인스타그램 https://t.co/gzqlcz3Cdx 유튜브 https://t.co/azTtNTpN8X 소속사 Label LIM",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								38,
+								61
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								68,
+								91
+							]
+						},
+						{
+							"url": "https://t.co/azTtNTpN8X",
+							"expanded_url": "https://www.youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 21,
+			"listed_count": 0,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 3000,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2919,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/452580080934322176/11nbgbKZ.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/452580080934322176/11nbgbKZ.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/863964785955586049/ClBVWNEx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/863964785955586049/ClBVWNEx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1495848277",
+			"profile_link_color": "082E8B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Aug 22 05:39:35 +0000 2017",
+		"id": 899868634813669400,
+		"id_str": "899868634813669377",
+		"text": "RT @do_corp: [음악먹는 홍대] 프롬(Fromm) - 서로의 조각: https://t.co/xbaEvW5B8e via @YouTube",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "do_corp",
+					"name": "음악먹는홍대",
+					"id": 3146893702,
+					"id_str": "3146893702",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						71,
+						79
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xbaEvW5B8e",
+					"expanded_url": "http://youtu.be/nVPyVTTSn7o?a",
+					"display_url": "youtu.be/nVPyVTTSn7o?a",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "HeartShuttleBan",
+			"location": "",
+			"description": "싱어송라이터 프롬(Fromm) 공식 트위터 @frommeg 페이스북 https://t.co/0zQF0hUdie 인스타그램 https://t.co/gzqlcz3Cdx 유튜브 https://t.co/azTtNTpN8X 소속사 Label LIM",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								38,
+								61
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								68,
+								91
+							]
+						},
+						{
+							"url": "https://t.co/azTtNTpN8X",
+							"expanded_url": "https://www.youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 21,
+			"listed_count": 0,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 3000,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2919,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/452580080934322176/11nbgbKZ.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/452580080934322176/11nbgbKZ.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/863964785955586049/ClBVWNEx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/863964785955586049/ClBVWNEx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1495848277",
+			"profile_link_color": "082E8B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 22 05:05:21 +0000 2017",
+			"id": 899860019172307000,
+			"id_str": "899860019172306944",
+			"text": "[음악먹는 홍대] 프롬(Fromm) - 서로의 조각: https://t.co/xbaEvW5B8e via @YouTube",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "YouTube",
+						"name": "YouTube",
+						"id": 10228272,
+						"id_str": "10228272",
+						"indices": [
+							58,
+							66
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/xbaEvW5B8e",
+						"expanded_url": "http://youtu.be/nVPyVTTSn7o?a",
+						"display_url": "youtu.be/nVPyVTTSn7o?a",
+						"indices": [
+							30,
+							53
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3146893702,
+				"id_str": "3146893702",
+				"name": "음악먹는홍대",
+				"screen_name": "do_corp",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28,
+				"friends_count": 34,
+				"listed_count": 0,
+				"created_at": "Wed Apr 08 06:23:26 +0000 2015",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 297,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/629557003115827201/2xwkKbJ4_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/629557003115827201/2xwkKbJ4_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3146893702/1438933080",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Aug 20 02:49:57 +0000 2017",
 		"id": 899101167027867600,
 		"id_str": "899101167027867648",
