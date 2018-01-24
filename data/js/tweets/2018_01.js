@@ -1,6 +1,358 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Wed Jan 24 11:49:41 +0000 2018",
+		"id": 956131888887836700,
+		"id_str": "956131888887836672",
+		"text": "RT @Mystic_89: '컴백' 조정치, 트랙리스트 공개… 정인과 듀엣곡 '사랑가' 수록\n&gt; https://t.co/CPKIlSIFVQ\n\n2018. 1. 26. PM 6:00\n#조정치 #정규3집 #정인 #선우정아 #강이채 #김그림 #키니케이 #레…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조정치",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "정규3집",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "정인",
+					"indices": [
+						114,
+						117
+					]
+				},
+				{
+					"text": "선우정아",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "강이채",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "김그림",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "키니케이",
+					"indices": [
+						134,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Mystic_89",
+					"name": "MYSTIC Ent.",
+					"id": 486655058,
+					"id_str": "486655058",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CPKIlSIFVQ",
+					"expanded_url": "http://bit.ly/2DGSZQN",
+					"display_url": "bit.ly/2DGSZQN",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "HeartShuttleBan",
+			"location": "",
+			"description": "싱어송라이터 프롬(Fromm) 공식 트위터 @frommeg 페이스북 https://t.co/0zQF0hUdie 인스타그램 https://t.co/gzqlcz3Cdx 유튜브 https://t.co/azTtNTpN8X https://t.co/g9eRvFJS3l",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								38,
+								61
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								68,
+								91
+							]
+						},
+						{
+							"url": "https://t.co/azTtNTpN8X",
+							"expanded_url": "https://www.youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								96,
+								119
+							]
+						},
+						{
+							"url": "https://t.co/g9eRvFJS3l",
+							"expanded_url": "http://cam.frommeg.com",
+							"display_url": "cam.frommeg.com",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 21,
+			"listed_count": 1,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 3276,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3364,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/452580080934322176/11nbgbKZ.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/452580080934322176/11nbgbKZ.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/863964785955586049/ClBVWNEx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/863964785955586049/ClBVWNEx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1495848277",
+			"profile_link_color": "082E8B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 24 03:12:14 +0000 2018",
+			"id": 956001669786976300,
+			"id_str": "956001669786976257",
+			"text": "'컴백' 조정치, 트랙리스트 공개… 정인과 듀엣곡 '사랑가' 수록\n&gt; https://t.co/CPKIlSIFVQ\n\n2018. 1. 26. PM 6:00\n#조정치 #정규3집 #정인 #선우정아 #강이채 #김그림… https://t.co/9FhqtiQslT",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "조정치",
+						"indices": [
+							88,
+							92
+						]
+					},
+					{
+						"text": "정규3집",
+						"indices": [
+							93,
+							98
+						]
+					},
+					{
+						"text": "정인",
+						"indices": [
+							99,
+							102
+						]
+					},
+					{
+						"text": "선우정아",
+						"indices": [
+							103,
+							108
+						]
+					},
+					{
+						"text": "강이채",
+						"indices": [
+							109,
+							113
+						]
+					},
+					{
+						"text": "김그림",
+						"indices": [
+							114,
+							118
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/CPKIlSIFVQ",
+						"expanded_url": "http://bit.ly/2DGSZQN",
+						"display_url": "bit.ly/2DGSZQN",
+						"indices": [
+							42,
+							65
+						]
+					},
+					{
+						"url": "https://t.co/9FhqtiQslT",
+						"expanded_url": "https://twitter.com/i/web/status/956001669786976257",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							120,
+							143
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 486655058,
+				"id_str": "486655058",
+				"name": "MYSTIC Ent.",
+				"screen_name": "Mystic_89",
+				"location": "Seoul",
+				"description": "미스틱엔터테인먼트의 오피셜 트위터입니다:)",
+				"url": "http://t.co/Cng1ZVonuI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Cng1ZVonuI",
+								"expanded_url": "http://facebook.com/the.mystic89",
+								"display_url": "facebook.com/the.mystic89",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16653,
+				"friends_count": 15,
+				"listed_count": 160,
+				"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3039,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/723535778123374593/AN_0A2n0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/723535778123374593/AN_0A2n0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1420771662",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Jan 23 11:49:39 +0000 2018",
 		"id": 955769494860832800,
 		"id_str": "955769494860832769",
