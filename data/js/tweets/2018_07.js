@@ -1,6 +1,1488 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Mon Jul 16 07:10:27 +0000 2018",
+		"id": 1018754721501335600,
+		"id_str": "1018754721501335552",
+		"text": "【 피터팬 컴플렉스 인스타그램 】 1999 앨범 축하 메세지\nhttps://t.co/DzMruU2goJ\n#프롬 #Fromm #이유진",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프롬",
+					"indices": [
+						58,
+						61
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						62,
+						68
+					]
+				},
+				{
+					"text": "이유진",
+					"indices": [
+						69,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DzMruU2goJ",
+					"expanded_url": "https://youtu.be/K2pKZgPaRsk",
+					"display_url": "youtu.be/K2pKZgPaRsk",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "HeartShuttleBan",
+			"location": "",
+			"description": "싱어송라이터 프롬(Fromm) 공식 트위터 @frommeg 페이스북 https://t.co/0zQF0hUdie 인스타그램 https://t.co/gzqlcz3Cdx 유튜브 https://t.co/azTtNTpN8X https://t.co/g9eRvFJS3l",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								38,
+								61
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								68,
+								91
+							]
+						},
+						{
+							"url": "https://t.co/azTtNTpN8X",
+							"expanded_url": "https://www.youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								96,
+								119
+							]
+						},
+						{
+							"url": "https://t.co/g9eRvFJS3l",
+							"expanded_url": "http://cam.frommeg.com",
+							"display_url": "cam.frommeg.com",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 26,
+			"listed_count": 2,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 3126,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3672,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/971415559479767041/oQIMUBGy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/971415559479767041/oQIMUBGy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1520438514",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Jul 16 06:23:59 +0000 2018",
+		"id": 1018743027697717200,
+		"id_str": "1018743027697717253",
+		"text": "RT @pcomplexx: 1999 앨범 축하 메세지 🍾 🎉 #요조 #정인 #프롬 #리싸 #피터팬컴플렉스  @mayonnaizoh @junginjungin @frommeg @leesa________ https://t.co/haLQBi8BK7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "요조",
+					"indices": [
+						34,
+						37
+					]
+				},
+				{
+					"text": "정인",
+					"indices": [
+						38,
+						41
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						42,
+						45
+					]
+				},
+				{
+					"text": "리싸",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "피터팬컴플렉스",
+					"indices": [
+						50,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pcomplexx",
+					"name": "peterpan complex",
+					"id": 135015030,
+					"id_str": "135015030",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "mayonnaizoh",
+					"name": "신요조",
+					"id": 428029994,
+					"id_str": "428029994",
+					"indices": [
+						60,
+						72
+					]
+				},
+				{
+					"screen_name": "junginjungin",
+					"name": "Ann Kim",
+					"id": 158395115,
+					"id_str": "158395115",
+					"indices": [
+						73,
+						86
+					]
+				},
+				{
+					"screen_name": "Frommeg",
+					"name": "Fromm12",
+					"id": 584157489,
+					"id_str": "584157489",
+					"indices": [
+						87,
+						95
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "HeartShuttleBan",
+			"location": "",
+			"description": "싱어송라이터 프롬(Fromm) 공식 트위터 @frommeg 페이스북 https://t.co/0zQF0hUdie 인스타그램 https://t.co/gzqlcz3Cdx 유튜브 https://t.co/azTtNTpN8X https://t.co/g9eRvFJS3l",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								38,
+								61
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								68,
+								91
+							]
+						},
+						{
+							"url": "https://t.co/azTtNTpN8X",
+							"expanded_url": "https://www.youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								96,
+								119
+							]
+						},
+						{
+							"url": "https://t.co/g9eRvFJS3l",
+							"expanded_url": "http://cam.frommeg.com",
+							"display_url": "cam.frommeg.com",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 26,
+			"listed_count": 2,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 3126,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3672,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/971415559479767041/oQIMUBGy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/971415559479767041/oQIMUBGy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1520438514",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 16 06:20:16 +0000 2018",
+			"id": 1018742090338009100,
+			"id_str": "1018742090338009088",
+			"text": "1999 앨범 축하 메세지 🍾 🎉 #요조 #정인 #프롬 #리싸 #피터팬컴플렉스  @mayonnaizoh @junginjungin @frommeg @leesa________ https://t.co/haLQBi8BK7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "요조",
+						"indices": [
+							19,
+							22
+						]
+					},
+					{
+						"text": "정인",
+						"indices": [
+							23,
+							26
+						]
+					},
+					{
+						"text": "프롬",
+						"indices": [
+							27,
+							30
+						]
+					},
+					{
+						"text": "리싸",
+						"indices": [
+							31,
+							34
+						]
+					},
+					{
+						"text": "피터팬컴플렉스",
+						"indices": [
+							35,
+							43
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mayonnaizoh",
+						"name": "신요조",
+						"id": 428029994,
+						"id_str": "428029994",
+						"indices": [
+							45,
+							57
+						]
+					},
+					{
+						"screen_name": "junginjungin",
+						"name": "Ann Kim",
+						"id": 158395115,
+						"id_str": "158395115",
+						"indices": [
+							58,
+							71
+						]
+					},
+					{
+						"screen_name": "Frommeg",
+						"name": "Fromm12",
+						"id": 584157489,
+						"id_str": "584157489",
+						"indices": [
+							72,
+							80
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/haLQBi8BK7",
+						"expanded_url": "https://www.facebook.com/peterpancomplexofficial/videos/1904929369568758/",
+						"display_url": "facebook.com/peterpancomple…",
+						"indices": [
+							96,
+							119
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 135015030,
+				"id_str": "135015030",
+				"name": "peterpan complex",
+				"screen_name": "pcomplexx",
+				"location": "Seoul,South Korea",
+				"description": "2016.07.26 12:00 '시무룩해'발매\r\nCONTACT - RUBY Records / rubyrecord@naver.com",
+				"url": "https://t.co/9Ks1iymm0u",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9Ks1iymm0u",
+								"expanded_url": "http://rubyrecord.com/",
+								"display_url": "rubyrecord.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1265,
+				"friends_count": 97,
+				"listed_count": 40,
+				"created_at": "Tue Apr 20 03:07:42 +0000 2010",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 805,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/799079375291322368/wAXUd43x_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/799079375291322368/wAXUd43x_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/135015030/1479350125",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Jul 16 06:23:36 +0000 2018",
+		"id": 1018742931341992000,
+		"id_str": "1018742931341991936",
+		"text": "RT @pcomplexx: 1999 앨범 축하 메세지 🍾 🎉 #요조 #정인 #프롬 #리싸 #피터팬컴플렉스  @mayonnaizoh @junginjungin @frommeg @leesa________ https://t.co/Rw9HBLITgX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "요조",
+					"indices": [
+						34,
+						37
+					]
+				},
+				{
+					"text": "정인",
+					"indices": [
+						38,
+						41
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						42,
+						45
+					]
+				},
+				{
+					"text": "리싸",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "피터팬컴플렉스",
+					"indices": [
+						50,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pcomplexx",
+					"name": "peterpan complex",
+					"id": 135015030,
+					"id_str": "135015030",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "mayonnaizoh",
+					"name": "신요조",
+					"id": 428029994,
+					"id_str": "428029994",
+					"indices": [
+						60,
+						72
+					]
+				},
+				{
+					"screen_name": "junginjungin",
+					"name": "Ann Kim",
+					"id": 158395115,
+					"id_str": "158395115",
+					"indices": [
+						73,
+						86
+					]
+				},
+				{
+					"screen_name": "Frommeg",
+					"name": "Fromm12",
+					"id": 584157489,
+					"id_str": "584157489",
+					"indices": [
+						87,
+						95
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "HeartShuttleBan",
+			"location": "",
+			"description": "싱어송라이터 프롬(Fromm) 공식 트위터 @frommeg 페이스북 https://t.co/0zQF0hUdie 인스타그램 https://t.co/gzqlcz3Cdx 유튜브 https://t.co/azTtNTpN8X https://t.co/g9eRvFJS3l",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								38,
+								61
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								68,
+								91
+							]
+						},
+						{
+							"url": "https://t.co/azTtNTpN8X",
+							"expanded_url": "https://www.youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								96,
+								119
+							]
+						},
+						{
+							"url": "https://t.co/g9eRvFJS3l",
+							"expanded_url": "http://cam.frommeg.com",
+							"display_url": "cam.frommeg.com",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 26,
+			"listed_count": 2,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 3126,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3672,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/971415559479767041/oQIMUBGy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/971415559479767041/oQIMUBGy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1520438514",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 16 06:15:50 +0000 2018",
+			"id": 1018740975424999400,
+			"id_str": "1018740975424999425",
+			"text": "1999 앨범 축하 메세지 🍾 🎉 #요조 #정인 #프롬 #리싸 #피터팬컴플렉스  @mayonnaizoh @junginjungin @frommeg @leesa________ https://t.co/Rw9HBLITgX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "요조",
+						"indices": [
+							19,
+							22
+						]
+					},
+					{
+						"text": "정인",
+						"indices": [
+							23,
+							26
+						]
+					},
+					{
+						"text": "프롬",
+						"indices": [
+							27,
+							30
+						]
+					},
+					{
+						"text": "리싸",
+						"indices": [
+							31,
+							34
+						]
+					},
+					{
+						"text": "피터팬컴플렉스",
+						"indices": [
+							35,
+							43
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mayonnaizoh",
+						"name": "신요조",
+						"id": 428029994,
+						"id_str": "428029994",
+						"indices": [
+							45,
+							57
+						]
+					},
+					{
+						"screen_name": "junginjungin",
+						"name": "Ann Kim",
+						"id": 158395115,
+						"id_str": "158395115",
+						"indices": [
+							58,
+							71
+						]
+					},
+					{
+						"screen_name": "Frommeg",
+						"name": "Fromm12",
+						"id": 584157489,
+						"id_str": "584157489",
+						"indices": [
+							72,
+							80
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Rw9HBLITgX",
+						"expanded_url": "https://www.facebook.com/peterpancomplexofficial/videos/1904924136235948/",
+						"display_url": "facebook.com/peterpancomple…",
+						"indices": [
+							96,
+							119
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 135015030,
+				"id_str": "135015030",
+				"name": "peterpan complex",
+				"screen_name": "pcomplexx",
+				"location": "Seoul,South Korea",
+				"description": "2016.07.26 12:00 '시무룩해'발매\r\nCONTACT - RUBY Records / rubyrecord@naver.com",
+				"url": "https://t.co/9Ks1iymm0u",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9Ks1iymm0u",
+								"expanded_url": "http://rubyrecord.com/",
+								"display_url": "rubyrecord.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1265,
+				"friends_count": 97,
+				"listed_count": 40,
+				"created_at": "Tue Apr 20 03:07:42 +0000 2010",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 805,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/799079375291322368/wAXUd43x_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/799079375291322368/wAXUd43x_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/135015030/1479350125",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Jul 16 05:26:00 +0000 2018",
+		"id": 1018728433315008500,
+		"id_str": "1018728433315008512",
+		"text": "RT @pcomplexx: 예약판매 시작되었습니다.\n\n피터팬컴플렉스의 정규앨범\n1 9 9 9\n6년망에 CD를 발매합니다.\n그리고 처음으로 LP까지 만들어 보았습니다.\n곧 특별한 이벤트들이 준비되고 있습니다.\n기대해주세요~~!!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pcomplexx",
+					"name": "peterpan complex",
+					"id": 135015030,
+					"id_str": "135015030",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "HeartShuttleBan",
+			"location": "",
+			"description": "싱어송라이터 프롬(Fromm) 공식 트위터 @frommeg 페이스북 https://t.co/0zQF0hUdie 인스타그램 https://t.co/gzqlcz3Cdx 유튜브 https://t.co/azTtNTpN8X https://t.co/g9eRvFJS3l",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								38,
+								61
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								68,
+								91
+							]
+						},
+						{
+							"url": "https://t.co/azTtNTpN8X",
+							"expanded_url": "https://www.youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								96,
+								119
+							]
+						},
+						{
+							"url": "https://t.co/g9eRvFJS3l",
+							"expanded_url": "http://cam.frommeg.com",
+							"display_url": "cam.frommeg.com",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 26,
+			"listed_count": 2,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 3126,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3672,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/971415559479767041/oQIMUBGy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/971415559479767041/oQIMUBGy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1520438514",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 12 15:15:24 +0000 2018",
+			"id": 1017427212000038900,
+			"id_str": "1017427212000038913",
+			"text": "예약판매 시작되었습니다.\n\n피터팬컴플렉스의 정규앨범\n1 9 9 9\n6년망에 CD를 발매합니다.\n그리고 처음으로 LP까지 만들어 보았습니다.\n곧 특별한 이벤트들이 준비되고 있습니다.\n기대해주세요~~!!",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 135015030,
+				"id_str": "135015030",
+				"name": "peterpan complex",
+				"screen_name": "pcomplexx",
+				"location": "Seoul,South Korea",
+				"description": "2016.07.26 12:00 '시무룩해'발매\r\nCONTACT - RUBY Records / rubyrecord@naver.com",
+				"url": "https://t.co/9Ks1iymm0u",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9Ks1iymm0u",
+								"expanded_url": "http://rubyrecord.com/",
+								"display_url": "rubyrecord.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1265,
+				"friends_count": 97,
+				"listed_count": 40,
+				"created_at": "Tue Apr 20 03:07:42 +0000 2010",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 805,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/799079375291322368/wAXUd43x_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/799079375291322368/wAXUd43x_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/135015030/1479350125",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Jul 16 05:25:57 +0000 2018",
+		"id": 1018728420773990400,
+		"id_str": "1018728420773990400",
+		"text": "RT @pcomplexx: ✨2018.7.15.12:00✨ 피터팬컴플렉스의 새로운 앨범이 발매됩니다. #피터팬컴플렉스 #1999 #peterpancompex #pcx #전지한 #김인근 #김경인 #이치원 https://t.co/CV1vfLwSIh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "피터팬컴플렉스",
+					"indices": [
+						57,
+						65
+					]
+				},
+				{
+					"text": "peterpancompex",
+					"indices": [
+						72,
+						87
+					]
+				},
+				{
+					"text": "pcx",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "전지한",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "김인근",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "김경인",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "이치원",
+					"indices": [
+						108,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pcomplexx",
+					"name": "peterpan complex",
+					"id": 135015030,
+					"id_str": "135015030",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CV1vfLwSIh",
+					"expanded_url": "https://www.facebook.com/peterpancomplexofficial/videos/1895873980474297/",
+					"display_url": "facebook.com/peterpancomple…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "HeartShuttleBan",
+			"location": "",
+			"description": "싱어송라이터 프롬(Fromm) 공식 트위터 @frommeg 페이스북 https://t.co/0zQF0hUdie 인스타그램 https://t.co/gzqlcz3Cdx 유튜브 https://t.co/azTtNTpN8X https://t.co/g9eRvFJS3l",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								38,
+								61
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								68,
+								91
+							]
+						},
+						{
+							"url": "https://t.co/azTtNTpN8X",
+							"expanded_url": "https://www.youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								96,
+								119
+							]
+						},
+						{
+							"url": "https://t.co/g9eRvFJS3l",
+							"expanded_url": "http://cam.frommeg.com",
+							"display_url": "cam.frommeg.com",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 26,
+			"listed_count": 2,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 3126,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3672,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/971415559479767041/oQIMUBGy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/971415559479767041/oQIMUBGy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1520438514",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 10 12:27:16 +0000 2018",
+			"id": 1016660123954155500,
+			"id_str": "1016660123954155520",
+			"text": "✨2018.7.15.12:00✨ 피터팬컴플렉스의 새로운 앨범이 발매됩니다. #피터팬컴플렉스 #1999 #peterpancompex #pcx #전지한 #김인근 #김경인 #이치원 https://t.co/CV1vfLwSIh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "피터팬컴플렉스",
+						"indices": [
+							42,
+							50
+						]
+					},
+					{
+						"text": "peterpancompex",
+						"indices": [
+							57,
+							72
+						]
+					},
+					{
+						"text": "pcx",
+						"indices": [
+							73,
+							77
+						]
+					},
+					{
+						"text": "전지한",
+						"indices": [
+							78,
+							82
+						]
+					},
+					{
+						"text": "김인근",
+						"indices": [
+							83,
+							87
+						]
+					},
+					{
+						"text": "김경인",
+						"indices": [
+							88,
+							92
+						]
+					},
+					{
+						"text": "이치원",
+						"indices": [
+							93,
+							97
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/CV1vfLwSIh",
+						"expanded_url": "https://www.facebook.com/peterpancomplexofficial/videos/1895873980474297/",
+						"display_url": "facebook.com/peterpancomple…",
+						"indices": [
+							98,
+							121
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 135015030,
+				"id_str": "135015030",
+				"name": "peterpan complex",
+				"screen_name": "pcomplexx",
+				"location": "Seoul,South Korea",
+				"description": "2016.07.26 12:00 '시무룩해'발매\r\nCONTACT - RUBY Records / rubyrecord@naver.com",
+				"url": "https://t.co/9Ks1iymm0u",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9Ks1iymm0u",
+								"expanded_url": "http://rubyrecord.com/",
+								"display_url": "rubyrecord.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1265,
+				"friends_count": 97,
+				"listed_count": 40,
+				"created_at": "Tue Apr 20 03:07:42 +0000 2010",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 805,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/799079375291322368/wAXUd43x_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/799079375291322368/wAXUd43x_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/135015030/1479350125",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Jul 14 09:40:07 +0000 2018",
 		"id": 1018067610074665000,
 		"id_str": "1018067610074664960",
