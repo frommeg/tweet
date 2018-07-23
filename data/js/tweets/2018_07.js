@@ -1,6 +1,1182 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Mon Jul 23 15:00:35 +0000 2018",
+		"id": 1021409746614616000,
+		"id_str": "1021409746614616064",
+		"text": "【 #HappyFrommDay 】\n프롬의 생일을 축하합니다. Happy Birthday, Fromm ❤🎂🎈🎉🎊\n#프롬 #Fromm #이유진\n#프롬데이 #FrommDay0724 https://t.co/hFpDwgGxvE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HappyFrommDay",
+					"indices": [
+						2,
+						16
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						66,
+						72
+					]
+				},
+				{
+					"text": "이유진",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "프롬데이",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "FrommDay0724",
+					"indices": [
+						84,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1021409745243164700,
+					"id_str": "1021409745243164672",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/DizGwGtXUAAiRl-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DizGwGtXUAAiRl-.jpg",
+					"url": "https://t.co/hFpDwgGxvE",
+					"display_url": "pic.twitter.com/hFpDwgGxvE",
+					"expanded_url": "https://twitter.com/HeartShuttleBan/status/1021409746614616064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1021409745243164700,
+					"id_str": "1021409745243164672",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/DizGwGtXUAAiRl-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DizGwGtXUAAiRl-.jpg",
+					"url": "https://t.co/hFpDwgGxvE",
+					"display_url": "pic.twitter.com/hFpDwgGxvE",
+					"expanded_url": "https://twitter.com/HeartShuttleBan/status/1021409746614616064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "HeartShuttleBan",
+			"location": "",
+			"description": "싱어송라이터 프롬(Fromm) 공식 트위터 @frommeg 페이스북 https://t.co/0zQF0hUdie 인스타그램 https://t.co/gzqlcz3Cdx 유튜브 https://t.co/azTtNTpN8X https://t.co/g9eRvFJS3l",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								38,
+								61
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								68,
+								91
+							]
+						},
+						{
+							"url": "https://t.co/azTtNTpN8X",
+							"expanded_url": "https://www.youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								96,
+								119
+							]
+						},
+						{
+							"url": "https://t.co/g9eRvFJS3l",
+							"expanded_url": "http://cam.frommeg.com",
+							"display_url": "cam.frommeg.com",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 313,
+			"friends_count": 26,
+			"listed_count": 2,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 3128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3684,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/971415559479767041/oQIMUBGy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/971415559479767041/oQIMUBGy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1520438514",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Jul 23 09:44:53 +0000 2018",
+		"id": 1021330300792524800,
+		"id_str": "1021330300792524801",
+		"text": "RT @sewoon_refresh: 180721 #urbanmusicfestival #urbanstage #프롬 https://t.co/jbpYO4GJsz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "urbanmusicfestival",
+					"indices": [
+						27,
+						46
+					]
+				},
+				{
+					"text": "urbanstage",
+					"indices": [
+						47,
+						58
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						59,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sewoon_refresh",
+					"name": "세로고침🍀",
+					"id": 898343844013514800,
+					"id_str": "898343844013514752",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1020540946461675500,
+					"id_str": "1020540946461675520",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/DimwlXCW0AAiLyy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DimwlXCW0AAiLyy.jpg",
+					"url": "https://t.co/jbpYO4GJsz",
+					"display_url": "pic.twitter.com/jbpYO4GJsz",
+					"expanded_url": "https://twitter.com/sewoon_refresh/status/1020540956439818240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1020540956439818200,
+					"source_status_id_str": "1020540956439818240",
+					"source_user_id": 898343844013514800,
+					"source_user_id_str": "898343844013514752"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1020540946461675500,
+					"id_str": "1020540946461675520",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/DimwlXCW0AAiLyy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DimwlXCW0AAiLyy.jpg",
+					"url": "https://t.co/jbpYO4GJsz",
+					"display_url": "pic.twitter.com/jbpYO4GJsz",
+					"expanded_url": "https://twitter.com/sewoon_refresh/status/1020540956439818240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1020540956439818200,
+					"source_status_id_str": "1020540956439818240",
+					"source_user_id": 898343844013514800,
+					"source_user_id_str": "898343844013514752"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "HeartShuttleBan",
+			"location": "",
+			"description": "싱어송라이터 프롬(Fromm) 공식 트위터 @frommeg 페이스북 https://t.co/0zQF0hUdie 인스타그램 https://t.co/gzqlcz3Cdx 유튜브 https://t.co/azTtNTpN8X https://t.co/g9eRvFJS3l",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								38,
+								61
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								68,
+								91
+							]
+						},
+						{
+							"url": "https://t.co/azTtNTpN8X",
+							"expanded_url": "https://www.youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								96,
+								119
+							]
+						},
+						{
+							"url": "https://t.co/g9eRvFJS3l",
+							"expanded_url": "http://cam.frommeg.com",
+							"display_url": "cam.frommeg.com",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 313,
+			"friends_count": 26,
+			"listed_count": 2,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 3128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3684,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/971415559479767041/oQIMUBGy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/971415559479767041/oQIMUBGy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1520438514",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			4531360753
+		],
+		"retweeted_status": {
+			"created_at": "Sat Jul 21 05:28:19 +0000 2018",
+			"id": 1020540956439818200,
+			"id_str": "1020540956439818240",
+			"text": "180721 #urbanmusicfestival #urbanstage #프롬 https://t.co/jbpYO4GJsz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "urbanmusicfestival",
+						"indices": [
+							7,
+							26
+						]
+					},
+					{
+						"text": "urbanstage",
+						"indices": [
+							27,
+							38
+						]
+					},
+					{
+						"text": "프롬",
+						"indices": [
+							39,
+							42
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1020540946461675500,
+						"id_str": "1020540946461675520",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/DimwlXCW0AAiLyy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DimwlXCW0AAiLyy.jpg",
+						"url": "https://t.co/jbpYO4GJsz",
+						"display_url": "pic.twitter.com/jbpYO4GJsz",
+						"expanded_url": "https://twitter.com/sewoon_refresh/status/1020540956439818240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1020540946461675500,
+						"id_str": "1020540946461675520",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/DimwlXCW0AAiLyy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DimwlXCW0AAiLyy.jpg",
+						"url": "https://t.co/jbpYO4GJsz",
+						"display_url": "pic.twitter.com/jbpYO4GJsz",
+						"expanded_url": "https://twitter.com/sewoon_refresh/status/1020540956439818240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1020529866955870200,
+			"in_reply_to_status_id_str": "1020529866955870208",
+			"in_reply_to_user_id": 898343844013514800,
+			"in_reply_to_user_id_str": "898343844013514752",
+			"in_reply_to_screen_name": "sewoon_refresh",
+			"user": {
+				"id": 898343844013514800,
+				"id_str": "898343844013514752",
+				"name": "세로고침🍀",
+				"screen_name": "sewoon_refresh",
+				"location": "",
+				"description": "헤더는 @sewoon_jeong / 세운이로 인해 세로고침😀",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 238,
+				"friends_count": 85,
+				"listed_count": 2,
+				"created_at": "Fri Aug 18 00:40:37 +0000 2017",
+				"favourites_count": 929,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1864,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1021389696436277248/L2Of5Aui_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1021389696436277248/L2Of5Aui_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/898343844013514752/1532353297",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Mon Jul 23 09:06:34 +0000 2018",
+		"id": 1021320656133206000,
+		"id_str": "1021320656133206016",
+		"text": "Fromm 2nd FANMEETING '프롬의 낭만팬미팅 2018' 오픈 안내\nhttps://t.co/24BEvFYUHc\n\n#프롬 #Fromm #낭만팬미팅 #팬미팅 #프롬데이 #HappyFrommDay https://t.co/QCpMlZ6ATw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프롬",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "낭만팬미팅",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "팬미팅",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "프롬데이",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "HappyFrommDay",
+					"indices": [
+						98,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/24BEvFYUHc",
+					"expanded_url": "http://cafe.daum.net/frommeg/byIp/93",
+					"display_url": "cafe.daum.net/frommeg/byIp/93",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1021320610092232700,
+					"id_str": "1021320610092232705",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/Dix1rwZVMAEmH3y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dix1rwZVMAEmH3y.jpg",
+					"url": "https://t.co/QCpMlZ6ATw",
+					"display_url": "pic.twitter.com/QCpMlZ6ATw",
+					"expanded_url": "https://twitter.com/HeartShuttleBan/status/1021320656133206016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 840,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 476,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1429,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1021320610092232700,
+					"id_str": "1021320610092232705",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/Dix1rwZVMAEmH3y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dix1rwZVMAEmH3y.jpg",
+					"url": "https://t.co/QCpMlZ6ATw",
+					"display_url": "pic.twitter.com/QCpMlZ6ATw",
+					"expanded_url": "https://twitter.com/HeartShuttleBan/status/1021320656133206016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 840,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 476,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1429,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "HeartShuttleBan",
+			"location": "",
+			"description": "싱어송라이터 프롬(Fromm) 공식 트위터 @frommeg 페이스북 https://t.co/0zQF0hUdie 인스타그램 https://t.co/gzqlcz3Cdx 유튜브 https://t.co/azTtNTpN8X https://t.co/g9eRvFJS3l",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								38,
+								61
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								68,
+								91
+							]
+						},
+						{
+							"url": "https://t.co/azTtNTpN8X",
+							"expanded_url": "https://www.youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								96,
+								119
+							]
+						},
+						{
+							"url": "https://t.co/g9eRvFJS3l",
+							"expanded_url": "http://cam.frommeg.com",
+							"display_url": "cam.frommeg.com",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 313,
+			"friends_count": 26,
+			"listed_count": 2,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 3128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3684,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/971415559479767041/oQIMUBGy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/971415559479767041/oQIMUBGy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1520438514",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Jul 23 02:51:15 +0000 2018",
+		"id": 1021226206207750100,
+		"id_str": "1021226206207750144",
+		"text": "RT @urbanmusiccon: 어반 뮤직 페스티벌 2018 이 종료되었습니다.\n\n이틀간 최고의 무대를 만들어 주신 아티스트 분들과 시스템팀,\n원활한 진행을 위해 힘써주신 운영팀께 감사 말씀 전합니다.\n또한, 이들과 함께 뜨거운 반응으로 공연을 더…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "urbanmusiccon",
+					"name": "UrbanMusic",
+					"id": 918766987865550800,
+					"id_str": "918766987865550848",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "HeartShuttleBan",
+			"location": "",
+			"description": "싱어송라이터 프롬(Fromm) 공식 트위터 @frommeg 페이스북 https://t.co/0zQF0hUdie 인스타그램 https://t.co/gzqlcz3Cdx 유튜브 https://t.co/azTtNTpN8X https://t.co/g9eRvFJS3l",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								38,
+								61
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								68,
+								91
+							]
+						},
+						{
+							"url": "https://t.co/azTtNTpN8X",
+							"expanded_url": "https://www.youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								96,
+								119
+							]
+						},
+						{
+							"url": "https://t.co/g9eRvFJS3l",
+							"expanded_url": "http://cam.frommeg.com",
+							"display_url": "cam.frommeg.com",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 313,
+			"friends_count": 26,
+			"listed_count": 2,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 3128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3684,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/971415559479767041/oQIMUBGy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/971415559479767041/oQIMUBGy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1520438514",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			4531360753
+		],
+		"retweeted_status": {
+			"created_at": "Sun Jul 22 17:58:08 +0000 2018",
+			"id": 1021092040673701900,
+			"id_str": "1021092040673701889",
+			"text": "어반 뮤직 페스티벌 2018 이 종료되었습니다.\n\n이틀간 최고의 무대를 만들어 주신 아티스트 분들과 시스템팀,\n원활한 진행을 위해 힘써주신 운영팀께 감사 말씀 전합니다.\n또한, 이들과 함께 뜨거운 반응으로… https://t.co/ZX65BCz9FW",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZX65BCz9FW",
+						"expanded_url": "https://twitter.com/i/web/status/1021092040673701889",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 918766987865550800,
+				"id_str": "918766987865550848",
+				"name": "UrbanMusic",
+				"screen_name": "urbanmusiccon",
+				"location": "",
+				"description": "도시 그리고 당신의 음악 Urban Music Concert & Festival (문의는 페이스북 메세지로 부탁드립니다.)",
+				"url": "https://t.co/Lyin7L8h9u",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Lyin7L8h9u",
+								"expanded_url": "https://www.facebook.com/UrbanMusicConcert/",
+								"display_url": "facebook.com/UrbanMusicConc…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 86,
+				"friends_count": 45,
+				"listed_count": 1,
+				"created_at": "Fri Oct 13 09:14:54 +0000 2017",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 150,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/985796637300744192/IRXLZ0iW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/985796637300744192/IRXLZ0iW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/918766987865550848/1523867197",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Jul 21 00:40:12 +0000 2018",
 		"id": 1020468451192713200,
 		"id_str": "1020468451192713217",
